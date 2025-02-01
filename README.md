@@ -1,3 +1,4 @@
 # AGoogle
 Hi Guys This is my search engine.
-amolguptaid.github.io/Agoogle
+
+https://a-google.netlify.app/
